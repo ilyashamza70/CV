@@ -88,14 +88,14 @@ This directory contains comprehensive information about professional roles, proj
 
 ### Chronological Overview
 ```
-[Start Date] - Bachelor's Degree (UniMoRE)
-[Date] - Erasmus (England)
-[Date] - Bachelor's Thesis Completion
-[Date] - Tomra Recycling (Start)
-[Date] - Master's Program (Politecnico)
-[Date] - FKUnited Inc. (Start)
-[Date] - Erasmus (Argentina)
-[Date] - Present
+[To be updated] - Bachelor's Degree (UniMoRE)
+[To be updated] - Erasmus (England)
+[To be updated] - Bachelor's Thesis Completion
+[To be updated] - Tomra Recycling (Start)
+[To be updated] - Master's Program (Politecnico)
+[To be updated] - FKUnited Inc. (Start)
+[To be updated] - Erasmus (Argentina)
+Present (December 2025)
 ```
 
 ### Parallel Activities
