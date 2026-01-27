@@ -318,5 +318,5 @@ Supporting tasks that enhance application quality.
 
 ---
 
-**Last Updated:** December 18, 2025  
-**Next Review:** December 25, 2025
+**Last Updated:** January 27, 2026  
+**Next Review:** February 1, 2026

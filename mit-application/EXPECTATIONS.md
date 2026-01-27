@@ -343,5 +343,5 @@ Your unique combination of European education, Pakistani background, industry ex
 
 ---
 
-**Last Updated:** December 18, 2025  
+**Last Updated:** January 27, 2026  
 **Review before finalizing application:** February 2026
