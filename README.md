@@ -1,6 +1,6 @@
 # CV - Hamza Ilyas
 
-My personal &amp; professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester 2024-2025. Than last 2025 in Ita, Reggiolo.
+My personal &amp; professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester. Than back to Italy.
 
 ## Repository Structure
 
