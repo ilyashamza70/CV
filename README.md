@@ -6,32 +6,21 @@ My personal & professional CV documenting my journey. Born in Pakistan, Okara Ca
 
 ## 🌍 Life Journey
 
-| Period | Location | Activity |
-|--------|----------|----------|
-| Birth | Pakistan, Okara Cantt | Origin |
-| Early Years | Italy | Moved to Italy |
-| Studies | Europe | Travels around Europe |
-| Erasmus | England | International exchange |
-| Work | Varese, Italy | Whirlpool - Software Integrator |
-| Masters | Turin, Italy | Politecnico di Torino |
-| Life | Turin → Milan | Travel West Coast: La Spezia to Saint Tropez |
-| Erasmus | Argentina (UNC) | 1st Semester 2024-2025 |
-| 2025 | Reggiolo, Italy | Current location |
-
+| Period      | Location     | Activity |
+|-------------|----------|----------|
+| Birth       | Pakistan, Okara Cantt | Origin |
+| Early Years | Reggiolo, It | Moved to Italy |
+| Bachelors   | Modena, It   | University of Modena & Reggio Emilia |
+| Erasmus     | Exeter, UK   | International exchange               |
+| Work        | Varese, It   | Whirlpool - Software Integrator      |
+| Masters     | Turin, It    | Politecnico di Torino                |
+| Life        | Genoa, It    | Traveling West Coast                 |
+| Erasmus     | Argentina    | 1st Semester 2024-2025               |
+| Work        | Parma, It    | Current location                     |
 ---
 
+
 ## 🎓 Education
-
-### 📜 Master's Degree in Computer Engineering
-**Politecnico di Torino (PoliTo)** - Turin, Italy  
-*Specialization: Embedded Systems*  
-Currently enrolled
-
-### 📜 Erasmus Exchange
-**Universidad Nacional de Córdoba (UNC)** - Córdoba, Argentina  
-*Facultad de Ciencias Exactas, Físicas y Naturales (FCEFyN)*  
-1st Semester 2024-2025  
-- Curso de Práctica y Construcción de Compiladores ([PyCC Repository](https://github.com/ilyashamza70/PyCC))
 
 ### 📜 Bachelor's Degree in Computer Engineering [L-8]
 **Università degli Studi di Modena e Reggio Emilia (UniMoRE)** - Italy  
@@ -39,25 +28,60 @@ Class of 2021-2022
 - Thesis on Smart Plug-Top Digital (SPTD) for automotive appliance using 16-bit dsPIC33
 - [View Thesis Repository](https://github.com/ilyashamza70/Thesis)
 
+### 📜 Erasmus Exchange
+**University of Exeter (Exon / UoE)** - Exeter, United Kingdom  
+*Faculty of Electronics Engineering*  
+1st Semester 2021-2022  
+
+### 📜 Ms.c. in Embedded Systems [LM-32]
+**Politecnico di Torino (PoliTo)** - Turin, Italy  
+*Specialization: Embedded Systems*  
+
+### 📜 Extra-UE Erasmus
+**Universidad Nacional de Córdoba (UNC)** - Córdoba, Argentina  
+*Facultad de Ciencias Exactas, Físicas y Naturales (FCEFyN)*  
+1st Semester 2024-2025  
+- Curso de Práctica y Construcción de Compiladores ([PyCC Repository](https://github.com/ilyashamza70/PyCC))
+
+### 📜 Masters in Project Managment [1st level Masters]
+**Online Buisness School (OBS)** - Barcellona, Spain  
+*Specialization: WBS, PMI methdologies, PRINCE2 & Human resources.* 
+
 ---
 
 ## 💼 Work Experience
 
-### Electrical Project Engineer
-**pivital**  
-*Current Position*
-
-### Project Manager
-**Deepscale Solutions**  
-*Current Position*
-
-### Software Integrator
-**Whirlpool** - Varese, Italy  
-Worked on software integration projects
+### IT support
+**Tenneco Inc.** - Cybersecurity Department - Carpi, Italy
+*Add experience, lookup old files and older cvs* 
+Tool & acquired Software experties: CrowdStrike, MS suite, PowerBI,   
 
 ### Firmware & Software Developer
-**Tenneco Inc.** - Powertrain Department  
-R&D experience in firmware and software development for automotive applications
+**Tenneco Inc.** - Powertrain Department - Carpi, Italy
+R&D experience in firmware and software development for automotive applications focusing on spark plugs and Ignition coils 
+Tools and Sw experties gained: Microcontrollers 4,8,16 bit PIC & dsPIC, MPLAB enviornment & emulators, VS code, GitHUB, 
+Programming Languages used: C, C#, python, Java, linux. 
+Protocols used: UART, CAN, LIN. 
+
+### Analyst
+**UPS** - Data Entry -Carpi, Italy  
+Checking all documents concerning import & export deliveries.
+Categorize & Labelling all invocies, tracking the status of these deliveries.
+
+### Embedded Software Engineer | Software Integrator
+**Whirlpool** - Home Appliances - Varese, Italy  
+Worked on software integration projects
+Wrote code destined for ARM MCU
+
+### Project Manager / Electrican Project Engineer ???
+**Deepscale Solutions** - Telecommunication - Monza, Italy (remote)
+*add the description later*
+
+### Field Service Engineer
+**Tomra** - Recycling - Parma, Italy (remote)  
+*add the description later*
+
+
 
 ---
 
@@ -128,11 +152,6 @@ Highly specialized consulting firm providing advanced solutions for embedded sys
 
 ---
 
-*Last updated: December 2025*
-# CV - Hamza Ilyas
-
-My personal & professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester. Than back to Italy.
-
 ## Repository Structure
 
 ### Main Branch
@@ -150,22 +169,5 @@ Dedicated folder for MIT EECS graduate program application management system, in
 **Status:** Active development - Application in progress  
 **Target Submission:** February 15, 2026
 
-
-## About Me
-
-**Name:** Hamza Ilyas  
-**Age:** 25 years old  
-**Nationality:** Pakistani  
-**Current Role:** Field Service Engineer at Tomra Recycling | Embedded Systems Consultant at FKUnited Inc.  
-**Education:** 
-- Bachelor's in Computer Engineering - University of Modena and Reggio Emilia (UniMoRE)
-- Erasmus - University of Exeter (2021/2022)
-- Master's in Computer Engineering - Politecnico di Torino (in progress, to be updated)
-- Erasmus - Universidad Nacional de Cordoba, Argentina (2024/2025)
-- Master's in Project Management - Barcelona Online Business School (in progress, to be updated)
-
-**Specialization:** Embedded Systems (Computer Engineering, LM-32)  
-**LinkedIn:** [hamza-ilyas]
-
-
-[hamza-ilyas]: https://www.linkedin.com/in/hamza-ilyas-fkunited
+---
+*Last updated: Feburary 2026*
