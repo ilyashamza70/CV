@@ -1,9 +1,6 @@
 # CV - Hamza Ilyas
 
-My personal & professional CV repository with MIT EECS application tracking materials.
-# CV - Hamza Ilyas
-
-My personal &amp; professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester. Than back to Italy.
+My personal & professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester. Than back to Italy.
 
 ## Repository Structure
 
@@ -17,6 +14,7 @@ Dedicated folder for MIT EECS graduate program application management system, in
 - 250-word relevant experience description
 - Application tracking (checklist, status, timeline, expectations)
 - CV, thesis, experience, and documents folders
+- Comprehensive timeline management (December 2025 - February 2026)
 
 **Status:** Active development - Application in progress  
 **Target Submission:** February 15, 2026
@@ -35,7 +33,7 @@ Dedicated folder for MIT EECS graduate program application management system, in
 - Erasmus - Universidad Nacional de Cordoba, Argentina (2024/2025)
 - Master's in Project Management - Barcelona Online Business School (in progress, to be updated)
 
-**Specialization:** Embedded Systems (Computer Engineering, LM-32); 
+**Specialization:** Embedded Systems (Computer Engineering, LM-32)  
 **LinkedIn:** [hamza-ilyas]
 
 
