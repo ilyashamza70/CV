@@ -16,6 +16,45 @@ February 2026: Document Assembly & Submission [Weeks 7-8]
 
 ---
 
+## Current Status Update (Feb 10, 2026)
+
+**Reality Check:** Minimal progress beyond infrastructure and the 250-word description. The original schedule is now behind and the submission window is at risk.
+
+### Completed
+- Application tracking infrastructure
+- 250-word experience description
+- CV data extracted from CV_Eng.pdf and CV_PoliToc.pdf
+
+### Not Started (Critical)
+- MIT application account
+- Transcript requests
+- GRE and TOEFL/IELTS registration
+- Recommender outreach
+- Statement of purpose drafting
+
+---
+
+## Recovery Plan (Feb 10-28, 2026)
+
+### Feb 10-13: Immediate Setup
+- Create MIT application account and confirm deadline
+- Request official transcripts (UniMoRE, Politecnico, Erasmus)
+- Identify and contact recommenders
+- Register for GRE and TOEFL/IELTS
+
+### Feb 14-20: Writing Foundation
+- Statement of purpose outline
+- Draft first full SOP
+- Collect recommendation materials (CV data, 250-word description)
+
+### Feb 21-28: Document Assembly
+- SOP revisions and finalization
+- Draft any additional essays
+- Prepare CV/resume draft
+- Review portal requirements and upload plan
+
+---
+
 ## Week-by-Week Execution Plan
 
 ### Week 1: December 16-22, 2025

@@ -4,6 +4,9 @@ This directory contains curriculum vitae and resume materials for the MIT gradua
 
 ## Contents
 
+### Available Data
+- [x] **CV_EXTRACTED_DATA.md** - Extracted facts from CV_Eng.pdf and CV_PoliToc.pdf
+
 ### Planned Documents
 - [ ] **Academic_CV.pdf** - Full academic curriculum vitae (comprehensive format)
 - [ ] **Resume_MIT.pdf** - Tailored 2-3 page resume for MIT application
@@ -44,6 +47,6 @@ This directory contains curriculum vitae and resume materials for the MIT gradua
 
 ---
 
-**Status:** Pending integration  
+**Status:** Data extracted, CV build pending  
 **Priority:** HIGH  
-**Target Completion:** December 24, 2025
+**Target Completion:** To be scheduled

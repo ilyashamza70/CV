@@ -81,7 +81,8 @@ mit-application/
 ├── TIMELINE.md                         # Week-by-week execution plan
 │
 ├── cv/                                 # CV and resume materials
-│   └── README.md                       # CV documentation guide
+│   ├── README.md                       # CV documentation guide
+│   └── CV_EXTRACTED_DATA.md            # Extracted data from shared CVs
 │
 ├── thesis/                             # Thesis documentation
 │   ├── bachelors-thesis/
@@ -100,66 +101,59 @@ mit-application/
 
 ## Current Status
 
-**Phase:** Phase 3 - Document Assembly  
-**Progress:** 65% overall  
-**Last Updated:** January 27, 2026
+**Phase:** Phase 1 - Foundation (in progress)  
+**Progress:** 15% overall  
+**Last Updated:** February 10, 2026
 
 ### Completed ✅
 - [x] Application infrastructure setup
 - [x] Directory structure created
 - [x] Tracking documents established
 - [x] 250-word experience description completed
-- [x] Timeline with Pakistan trip accommodation
-- [x] Comprehensive checklists and expectations
-- [x] CV updated and finalized
-- [x] Recommenders identified and contacted
-- [x] GRE and TOEFL completed
-- [x] Statement of purpose second draft
-- [x] Transcripts requested
+- [x] CV data extracted from both CV files
 
 ### In Progress 🟡
-- [ ] Statement of purpose - final draft
-- [ ] Additional essays - final review
-- [ ] Thesis documentation finalization
-- [ ] Application portal completion
+- [ ] MIT application account creation
+- [ ] Statement of purpose outline
+- [ ] Recommender identification
 
 ### Upcoming 🔴
-- [ ] Final proofreading (all documents)
-- [ ] Application submission preparation
-- [ ] Recommendation confirmation (by Feb 10)
-- [ ] Submit application (by Feb 13)
+- [ ] Transcripts request (UniMoRE, Politecnico, Erasmus)
+- [ ] GRE registration and preparation
+- [ ] TOEFL/IELTS registration and preparation
+- [ ] Full statement of purpose drafting
+- [ ] Application portal completion
 
 ---
 
 ## Quick Start Guide
 
-### For Immediate Action (Next Week - Jan 28 - Feb 4)
+### Immediate Action (Next 7-10 Days)
 
-1. **Finalize Statement of Purpose** (Priority: CRITICAL)
-   - Complete third/final draft
-   - Professional proofreading
-   - Target: Complete by February 1, 2026
+1. **Create MIT Application Account** (Priority: CRITICAL)
+   - Set up the portal and confirm deadlines
+   - Target: Complete in 1 day
 
-2. **Complete All Essays** (Priority: CRITICAL)
-   - Final review of diversity statement
-   - Personal background essay finalization
-   - Target: Complete by February 3, 2026
+2. **Request Official Transcripts** (Priority: CRITICAL)
+   - UniMoRE, Politecnico, Erasmus institutions
+   - Target: Submit requests within 48 hours
 
-3. **Application Portal** (Priority: HIGH)
-   - Complete all online form sections
-   - Upload all documents
-   - Target: Ready by February 6, 2026
+3. **Identify and Contact Recommenders** (Priority: CRITICAL)
+   - Confirm availability and provide materials
+   - Target: Initial outreach within 3 days
 
-4. **Confirm Recommendations** (Priority: HIGH)
-   - Follow up with all 3 recommenders
-   - Ensure submission by February 10 deadline
-   - Target: Confirmation by February 5, 2026
+4. **Draft Statement of Purpose Outline** (Priority: HIGH)
+   - Outline + key research interests
+   - Target: First outline within 5 days
+
+5. **Register for GRE and TOEFL/IELTS** (Priority: HIGH)
+   - Identify earliest test dates and register
+   - Target: Registration within 7 days
 
 ### Timeline Overview
-- **December 2025:** Foundation, registration, CV update ✅ COMPLETED
-- **January 2026:** Tests (GRE, TOEFL), statement drafting, Pakistan trip ✅ COMPLETED
-- **January 28 - February 10, 2026:** Document finalization ⏳ IN PROGRESS
-- **February 10-13, 2026:** Final review and submission ⏳ UPCOMING
+- **December 2025:** Foundation setup ✅ COMPLETED
+- **January 2026:** Tests + documents ❌ NOT STARTED
+- **February 2026:** Document assembly + submission ⛔ AT RISK
 
 ---
 
@@ -168,17 +162,17 @@ mit-application/
 | Milestone | Target Date | Status |
 |-----------|-------------|--------|
 | Application infrastructure | Dec 18, 2025 | ✅ Complete |
-| GRE/TOEFL registration | Dec 20, 2025 | ✅ Complete |
-| CV finalized | Dec 24, 2025 | ✅ Complete |
-| Recommenders identified | Dec 25, 2025 | ✅ Complete |
-| Transcripts requested | Dec 31, 2025 | ✅ Complete |
-| GRE completed | Jan 5-25, 2026 | ✅ Complete |
-| TOEFL completed | Jan 26, 2026 | ✅ Complete |
-| Statement of purpose final | Feb 1, 2026 | 🟡 In Progress |
-| All essays finalized | Feb 3, 2026 | 🟡 In Progress |
-| Application portal complete | Feb 6, 2026 | 🔴 Upcoming |
-| Recommendations confirmed | Feb 10, 2026 | 🔴 Upcoming |
-| Application submission | Feb 13, 2026 | 🔴 Upcoming |
+| GRE/TOEFL registration | Dec 20, 2025 | 🔴 Not Started |
+| CV data extracted | Feb 10, 2026 | ✅ Complete |
+| Recommenders identified | Dec 25, 2025 | 🔴 Not Started |
+| Transcripts requested | Dec 31, 2025 | 🔴 Not Started |
+| GRE completed | Jan 5-25, 2026 | 🔴 Not Started |
+| TOEFL completed | Jan 26, 2026 | 🔴 Not Started |
+| Statement of purpose final | Feb 1, 2026 | 🔴 Not Started |
+| All essays finalized | Feb 3, 2026 | 🔴 Not Started |
+| Application portal complete | Feb 6, 2026 | 🔴 Not Started |
+| Recommendations confirmed | Feb 10, 2026 | 🔴 Not Started |
+| Application submission | Feb 13, 2026 | 🔴 Not Started |
 
 **Legend:** ✅ Complete | 🟡 In Progress | 🔴 Upcoming
 

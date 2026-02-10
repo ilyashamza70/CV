@@ -16,6 +16,38 @@ Supporting tasks that enhance application quality.
 
 ---
 
+## Current Sprint (Feb 10-17, 2026)
+
+### 🔴 Critical
+- [ ] **Create MIT Application Account**
+  - Confirm exact EECS deadline and requirements
+  - Estimated time: 30 minutes
+  - Deadline: Feb 11, 2026
+
+- [ ] **Request Official Transcripts**
+  - UniMoRE, Politecnico di Torino, Erasmus institutions
+  - Estimated time: 2-3 hours
+  - Deadline: Feb 11-12, 2026
+
+- [ ] **Identify and Contact Recommenders**
+  - 2 academic + 1 professional
+  - Share CV data + 250-word description
+  - Estimated time: 2-3 hours
+  - Deadline: Feb 12, 2026
+
+### 🟠 High
+- [ ] **Register for GRE + TOEFL/IELTS**
+  - Check earliest test dates and register
+  - Estimated time: 1-2 hours
+  - Deadline: Feb 13, 2026
+
+- [ ] **Statement of Purpose Outline**
+  - Outline + key research interests
+  - Estimated time: 3-4 hours
+  - Deadline: Feb 14, 2026
+
+---
+
 ## Immediate Actions (Next 7 Days)
 
 ### 🔴 Critical
@@ -71,6 +103,7 @@ Supporting tasks that enhance application quality.
 ### 🔴 Critical
 - [x] Set up application tracking infrastructure
 - [x] Complete 250-word experience description
+- [x] Extract CV data from CV files
 - [ ] Request official transcripts from UniMoRE
 - [ ] Request official transcripts from Politecnico di Torino
 - [ ] Request transcripts from Erasmus institutions (Argentina, England)
@@ -138,7 +171,7 @@ Supporting tasks that enhance application quality.
 - [ ] Join MIT EECS admitted students groups (LinkedIn, etc.)
 - [ ] Research Boston housing and cost of living
 
-**Note:** Adjust schedule around Pakistan trip (January 1-15 estimated). Schedule exams either before departure or after return.
+**Note:** Pakistan trip completed; schedule the earliest available test dates.
 
 ---
 
@@ -318,5 +351,5 @@ Supporting tasks that enhance application quality.
 
 ---
 
-**Last Updated:** January 27, 2026  
-**Next Review:** February 1, 2026
+**Last Updated:** February 10, 2026  
+**Next Review:** February 17, 2026

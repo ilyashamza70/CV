@@ -241,6 +241,6 @@ Examples:
 
 ---
 
-**Last Updated:** December 18, 2025  
-**Next Review:** December 28, 2025  
+**Last Updated:** February 10, 2026  
+**Next Review:** February 17, 2026  
 **Priority:** CRITICAL - Required for application submission

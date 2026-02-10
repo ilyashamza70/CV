@@ -77,6 +77,7 @@
   - [ ] Technical skills (embedded systems, programming languages)
   - [ ] Certifications
   - [ ] International experience (Erasmus, work visas)
+- [x] Extract CV data from CV_Eng.pdf and CV_PoliToc.pdf
 - [ ] Tailor resume for MIT application (2-3 pages maximum)
 - [ ] Proofread for errors and formatting
 
@@ -150,5 +151,5 @@
 
 ---
 
-**Last Updated:** December 2025  
+**Last Updated:** February 10, 2026  
 **Application Deadline:** Typically mid-December to mid-February (verify on MIT website)

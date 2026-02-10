@@ -1,25 +1,26 @@
 # CV - Hamza Ilyas
 
+My personal & professional CV repository with MIT EECS application tracking materials.
+# CV - Hamza Ilyas
+
 My personal &amp; professional CV. From birth in Pakistan, Okara cantt to Italy, to around europe, to England erasmus, to Varese at whirlpool to Turin at Politecnico di Torino. Than from Turin to Milan, travelling around Europe, West coast, La spezia to Saint Tropez. Add Argentina period of erasmus in 1st semester. Than back to Italy.
 
 ## Repository Structure
 
 ### Main Branch
-This repository contains my comprehensive CV, professional history, and personal journey documentation.
+This repository contains CV materials, professional history, and application tracking files.
 
-### Application-Process Branch
-**[MIT Graduate Application Materials](../../tree/application-process/mit-application)**
+### MIT Application Folder
+**[MIT Graduate Application Materials](mit-application/README.md)**
 
-Dedicated branch for MIT EECS graduate program application management system, including:
+Dedicated folder for MIT EECS graduate program application management system, including:
 - 250-word relevant experience description
-- Complete application tracking (checklist, status, timeline, expectations)
-- Directory structure for CV, thesis documentation, professional experience, and official documents
-- Comprehensive timeline management (December 2025 - February 2026)
+- Application tracking (checklist, status, timeline, expectations)
+- CV, thesis, experience, and documents folders
 
 **Status:** Active development - Application in progress  
 **Target Submission:** February 15, 2026
 
----
 
 ## About Me
 
@@ -29,7 +30,13 @@ Dedicated branch for MIT EECS graduate program application management system, in
 **Current Role:** Field Service Engineer at Tomra Recycling | Embedded Systems Consultant at FKUnited Inc.  
 **Education:** 
 - Bachelor's in Computer Engineering - University of Modena and Reggio Emilia (UniMoRE)
-- Master's in Embedded Systems - Polytechnic of Turin (Politecnico di Torino) - In Progress
+- Erasmus - University of Exeter (2021/2022)
+- Master's in Computer Engineering - Politecnico di Torino (in progress, to be updated)
+- Erasmus - Universidad Nacional de Cordoba, Argentina (2024/2025)
+- Master's in Project Management - Barcelona Online Business School (in progress, to be updated)
 
-**Specialization:** Embedded Systems, IoT, Real-Time Systems  
-**LinkedIn:** [hamza-ilyas-fkunited](https://www.linkedin.com/in/hamza-ilyas-fkunited)
+**Specialization:** Embedded Systems (Computer Engineering, LM-32); 
+**LinkedIn:** [hamza-ilyas]
+
+
+[hamza-ilyas]: https://www.linkedin.com/in/hamza-ilyas-fkunited
